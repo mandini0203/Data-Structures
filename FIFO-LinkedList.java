@@ -1,4 +1,3 @@
-Using LinkedList
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -42,3 +41,4 @@ public class LinkedListQueue {
         System.out.println("Front element after dequeue: " + queue.peek());
     }
 }
+   
